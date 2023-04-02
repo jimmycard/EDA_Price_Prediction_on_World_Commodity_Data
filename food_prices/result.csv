@@ -1,0 +1,1037 @@
+,country_id,country_name,locality_id,locality_name,market_id,market_name,commodityID,commodity,currency_id,currency_name,market_typeID,market_type,measurement_id,unit_goods_measurement,month,year,price,Source
+434592,182,Nigeria,65698,Abia,1967,Aba,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,3,2017,16936.0,FEWSNET
+434593,182,Nigeria,65698,Abia,1967,Aba,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,4,2017,13615.0,FEWS NET
+434594,182,Nigeria,65698,Abia,1967,Aba,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,5,2017,13500.0,FEWS NET
+434792,182,Nigeria,2216,Borno,1968,Biu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,1,2015,14000.0,"FEWS NET, Nigeria"
+434793,182,Nigeria,2216,Borno,1968,Biu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,2,2015,13640.0,"FEWS NET, Nigeria"
+434794,182,Nigeria,2216,Borno,1968,Biu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,3,2015,12560.0,"FEWS NET, Nigeria"
+434795,182,Nigeria,2216,Borno,1968,Biu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,4,2015,14000.0,"FEWS NET, Nigeria"
+434796,182,Nigeria,2216,Borno,1968,Biu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,5,2015,13800.0,"FEWS NET, Nigeria"
+434797,182,Nigeria,2216,Borno,1968,Biu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,8,2015,14000.0,"FEWS NET, Nigeria"
+434798,182,Nigeria,2216,Borno,1968,Biu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,9,2015,14000.0,"FEWS NET, Nigeria"
+434799,182,Nigeria,2216,Borno,1968,Biu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,10,2015,14000.0,"FEWS NET, Nigeria"
+434800,182,Nigeria,2216,Borno,1968,Biu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,11,2015,13200.0,"FEWS NET, Nigeria"
+434801,182,Nigeria,2216,Borno,1968,Biu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,12,2015,13360.0,"FEWS NET, Nigeria"
+434802,182,Nigeria,2216,Borno,1968,Biu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,1,2016,14000.0,"FEWS NET, Nigeria"
+434803,182,Nigeria,2216,Borno,1968,Biu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,2,2016,14000.0,"FEWS NET, Nigeria"
+434804,182,Nigeria,2216,Borno,1968,Biu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,3,2016,16400.0,"FEWS NET, Nigeria"
+434805,182,Nigeria,2216,Borno,1968,Biu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,4,2016,18400.0,"FEWS NET, Nigeria"
+434806,182,Nigeria,2216,Borno,1968,Biu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,5,2016,22400.0,"FEWS NET, Nigeria"
+434807,182,Nigeria,2216,Borno,1968,Biu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,6,2016,23504.0,"FEWS NET, Nigeria"
+434808,182,Nigeria,2216,Borno,1968,Biu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,7,2016,26300.0,"FEWS NET, Nigeria"
+434809,182,Nigeria,2216,Borno,1968,Biu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,8,2016,27824.0,"FEWS NET, Nigeria"
+434810,182,Nigeria,2216,Borno,1968,Biu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,9,2016,26380.0,"FEWS NET, Nigeria"
+434811,182,Nigeria,2216,Borno,1968,Biu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,10,2016,21600.0,"FEWS NET, Nigeria"
+434812,182,Nigeria,2216,Borno,1968,Biu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,11,2016,24880.0,"FEWS NET, Nigeria"
+434813,182,Nigeria,2216,Borno,1968,Biu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,12,2016,26900.0,"FEWS NET, Nigeria"
+434814,182,Nigeria,2216,Borno,1968,Biu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,1,2017,30500.0,"FEWS NET, Nigeria"
+434815,182,Nigeria,2216,Borno,1968,Biu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,2,2017,26300.0,"FEWS NET, Nigeria"
+434816,182,Nigeria,2216,Borno,1968,Biu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,3,2017,32000.0,FEWSNET
+434817,182,Nigeria,2216,Borno,1968,Biu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,4,2017,30100.0,FEWS NET
+434818,182,Nigeria,2216,Borno,1968,Biu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,5,2017,31520.0,FEWS NET
+435250,182,Nigeria,2240,Yobe,1969,Damaturu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,1,2015,15800.0,"FEWS NET, Nigeria"
+435251,182,Nigeria,2240,Yobe,1969,Damaturu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,2,2015,15800.0,"FEWS NET, Nigeria"
+435252,182,Nigeria,2240,Yobe,1969,Damaturu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,3,2015,15800.0,"FEWS NET, Nigeria"
+435253,182,Nigeria,2240,Yobe,1969,Damaturu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,4,2015,15800.0,"FEWS NET, Nigeria"
+435254,182,Nigeria,2240,Yobe,1969,Damaturu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,5,2015,15800.0,"FEWS NET, Nigeria"
+435255,182,Nigeria,2240,Yobe,1969,Damaturu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,8,2015,14250.0,"FEWS NET, Nigeria"
+435256,182,Nigeria,2240,Yobe,1969,Damaturu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,9,2015,15000.0,"FEWS NET, Nigeria"
+435257,182,Nigeria,2240,Yobe,1969,Damaturu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,10,2015,12000.0,"FEWS NET, Nigeria"
+435258,182,Nigeria,2240,Yobe,1969,Damaturu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,11,2015,12000.0,"FEWS NET, Nigeria"
+435259,182,Nigeria,2240,Yobe,1969,Damaturu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,12,2015,12000.0,"FEWS NET, Nigeria"
+435260,182,Nigeria,2240,Yobe,1969,Damaturu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,1,2016,15000.0,"FEWS NET, Nigeria"
+435261,182,Nigeria,2240,Yobe,1969,Damaturu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,2,2016,16500.0,"FEWS NET, Nigeria"
+435262,182,Nigeria,2240,Yobe,1969,Damaturu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,3,2016,18000.0,"FEWS NET, Nigeria"
+435263,182,Nigeria,2240,Yobe,1969,Damaturu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,4,2016,20500.0,"FEWS NET, Nigeria"
+435264,182,Nigeria,2240,Yobe,1969,Damaturu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,5,2016,24650.0,"FEWS NET, Nigeria"
+435265,182,Nigeria,2240,Yobe,1969,Damaturu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,6,2016,29440.0,"FEWS NET, Nigeria"
+435266,182,Nigeria,2240,Yobe,1969,Damaturu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,7,2016,28900.0,"FEWS NET, Nigeria"
+435267,182,Nigeria,2240,Yobe,1969,Damaturu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,8,2016,28800.0,"FEWS NET, Nigeria"
+435268,182,Nigeria,2240,Yobe,1969,Damaturu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,9,2016,27900.0,"FEWS NET, Nigeria"
+435269,182,Nigeria,2240,Yobe,1969,Damaturu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,10,2016,23700.0,"FEWS NET, Nigeria"
+435270,182,Nigeria,2240,Yobe,1969,Damaturu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,11,2016,27160.0,"FEWS NET, Nigeria"
+435271,182,Nigeria,2240,Yobe,1969,Damaturu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,12,2016,29100.0,"FEWS NET, Nigeria"
+435272,182,Nigeria,2240,Yobe,1969,Damaturu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,1,2017,30000.0,"FEWS NET, Nigeria"
+435273,182,Nigeria,2240,Yobe,1969,Damaturu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,2,2017,30400.0,"FEWS NET, Nigeria"
+435274,182,Nigeria,2240,Yobe,1969,Damaturu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,3,2017,31700.0,FEWSNET
+435275,182,Nigeria,2240,Yobe,1969,Damaturu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,4,2017,33275.0,FEWS NET
+435276,182,Nigeria,2240,Yobe,1969,Damaturu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,5,2017,31040.0,FEWS NET
+435727,182,Nigeria,2226,Katsina,1970,Dandume,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,7,2014,15500.0,"FEWS NET, Nigeria"
+435728,182,Nigeria,2226,Katsina,1970,Dandume,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,8,2014,14875.0,"FEWS NET, Nigeria"
+435729,182,Nigeria,2226,Katsina,1970,Dandume,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,9,2014,13230.0,"FEWS NET, Nigeria"
+435730,182,Nigeria,2226,Katsina,1970,Dandume,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,10,2014,10375.0,"FEWS NET, Nigeria"
+435731,182,Nigeria,2226,Katsina,1970,Dandume,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,11,2014,10604.0,"FEWS NET, Nigeria"
+435732,182,Nigeria,2226,Katsina,1970,Dandume,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,12,2014,11408.0,"FEWS NET, Nigeria"
+435733,182,Nigeria,2226,Katsina,1970,Dandume,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,1,2015,12260.0,"FEWS NET, Nigeria"
+435734,182,Nigeria,2226,Katsina,1970,Dandume,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,2,2015,11940.0,"FEWS NET, Nigeria"
+435735,182,Nigeria,2226,Katsina,1970,Dandume,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,3,2015,12472.0,"FEWS NET, Nigeria"
+435736,182,Nigeria,2226,Katsina,1970,Dandume,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,4,2015,13790.0,"FEWS NET, Nigeria"
+435737,182,Nigeria,2226,Katsina,1970,Dandume,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,5,2015,13720.0,"FEWS NET, Nigeria"
+435738,182,Nigeria,2226,Katsina,1970,Dandume,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,6,2015,13770.0,"FEWS NET, Nigeria"
+435739,182,Nigeria,2226,Katsina,1970,Dandume,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,7,2015,12544.0,"FEWS NET, Nigeria"
+435740,182,Nigeria,2226,Katsina,1970,Dandume,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,8,2015,13400.0,"FEWS NET, Nigeria"
+435741,182,Nigeria,2226,Katsina,1970,Dandume,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,9,2015,15696.0,"FEWS NET, Nigeria"
+435742,182,Nigeria,2226,Katsina,1970,Dandume,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,10,2015,12460.0,"FEWS NET, Nigeria"
+435743,182,Nigeria,2226,Katsina,1970,Dandume,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,11,2015,11980.0,"FEWS NET, Nigeria"
+435744,182,Nigeria,2226,Katsina,1970,Dandume,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,12,2015,12796.0,"FEWS NET, Nigeria"
+435745,182,Nigeria,2226,Katsina,1970,Dandume,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,1,2016,14090.0,"FEWS NET, Nigeria"
+435746,182,Nigeria,2226,Katsina,1970,Dandume,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,2,2016,15820.0,"FEWS NET, Nigeria"
+435747,182,Nigeria,2226,Katsina,1970,Dandume,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,3,2016,17696.0,"FEWS NET, Nigeria"
+435748,182,Nigeria,2226,Katsina,1970,Dandume,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,4,2016,17780.0,"FEWS NET, Nigeria"
+435749,182,Nigeria,2226,Katsina,1970,Dandume,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,5,2016,22440.0,"FEWS NET, Nigeria"
+435750,182,Nigeria,2226,Katsina,1970,Dandume,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,6,2016,25648.0,"FEWS NET, Nigeria"
+435751,182,Nigeria,2226,Katsina,1970,Dandume,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,7,2016,25420.0,"FEWS NET, Nigeria"
+435752,182,Nigeria,2226,Katsina,1970,Dandume,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,8,2016,25680.0,"FEWS NET, Nigeria"
+435753,182,Nigeria,2226,Katsina,1970,Dandume,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,9,2016,25400.0,"FEWS NET, Nigeria"
+435754,182,Nigeria,2226,Katsina,1970,Dandume,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,10,2016,24400.0,"FEWS NET, Nigeria"
+435755,182,Nigeria,2226,Katsina,1970,Dandume,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,11,2016,25088.0,"FEWS NET, Nigeria"
+435756,182,Nigeria,2226,Katsina,1970,Dandume,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,12,2016,27820.0,"FEWS NET, Nigeria"
+435757,182,Nigeria,2226,Katsina,1970,Dandume,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,1,2017,31000.0,"FEWS NET, Nigeria"
+435758,182,Nigeria,2226,Katsina,1970,Dandume,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,5,2017,27700.0,FEWS NET
+436283,182,Nigeria,2224,Kaduna,1971,Giwa,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,7,2014,13000.0,"FEWS NET, Nigeria"
+436284,182,Nigeria,2224,Kaduna,1971,Giwa,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,8,2014,12750.0,"FEWS NET, Nigeria"
+436285,182,Nigeria,2224,Kaduna,1971,Giwa,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,9,2014,13620.0,"FEWS NET, Nigeria"
+436286,182,Nigeria,2224,Kaduna,1971,Giwa,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,10,2014,14280.0,"FEWS NET, Nigeria"
+436287,182,Nigeria,2224,Kaduna,1971,Giwa,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,11,2014,13940.0,"FEWS NET, Nigeria"
+436288,182,Nigeria,2224,Kaduna,1971,Giwa,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,12,2014,13920.0,"FEWS NET, Nigeria"
+436289,182,Nigeria,2224,Kaduna,1971,Giwa,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,1,2015,13760.0,"FEWS NET, Nigeria"
+436290,182,Nigeria,2224,Kaduna,1971,Giwa,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,2,2015,14000.0,"FEWS NET, Nigeria"
+436291,182,Nigeria,2224,Kaduna,1971,Giwa,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,3,2015,14156.0,"FEWS NET, Nigeria"
+436292,182,Nigeria,2224,Kaduna,1971,Giwa,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,4,2015,15145.0,"FEWS NET, Nigeria"
+436293,182,Nigeria,2224,Kaduna,1971,Giwa,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,5,2015,15600.0,"FEWS NET, Nigeria"
+436294,182,Nigeria,2224,Kaduna,1971,Giwa,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,6,2015,14460.0,"FEWS NET, Nigeria"
+436295,182,Nigeria,2224,Kaduna,1971,Giwa,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,7,2015,14000.0,"FEWS NET, Nigeria"
+436296,182,Nigeria,2224,Kaduna,1971,Giwa,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,8,2015,14000.0,"FEWS NET, Nigeria"
+436297,182,Nigeria,2224,Kaduna,1971,Giwa,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,9,2015,14360.0,"FEWS NET, Nigeria"
+436298,182,Nigeria,2224,Kaduna,1971,Giwa,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,10,2015,13250.0,"FEWS NET, Nigeria"
+436299,182,Nigeria,2224,Kaduna,1971,Giwa,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,11,2015,13750.0,"FEWS NET, Nigeria"
+436300,182,Nigeria,2224,Kaduna,1971,Giwa,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,12,2015,13888.0,"FEWS NET, Nigeria"
+436301,182,Nigeria,2224,Kaduna,1971,Giwa,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,1,2016,13970.0,"FEWS NET, Nigeria"
+436302,182,Nigeria,2224,Kaduna,1971,Giwa,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,2,2016,14345.0,"FEWS NET, Nigeria"
+436303,182,Nigeria,2224,Kaduna,1971,Giwa,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,3,2016,18488.0,"FEWS NET, Nigeria"
+436304,182,Nigeria,2224,Kaduna,1971,Giwa,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,4,2016,23950.0,"FEWS NET, Nigeria"
+436305,182,Nigeria,2224,Kaduna,1971,Giwa,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,5,2016,26340.0,"FEWS NET, Nigeria"
+436306,182,Nigeria,2224,Kaduna,1971,Giwa,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,6,2016,28704.0,"FEWS NET, Nigeria"
+436307,182,Nigeria,2224,Kaduna,1971,Giwa,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,7,2016,29200.0,"FEWS NET, Nigeria"
+436308,182,Nigeria,2224,Kaduna,1971,Giwa,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,8,2016,29424.0,"FEWS NET, Nigeria"
+436309,182,Nigeria,2224,Kaduna,1971,Giwa,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,9,2016,25000.0,"FEWS NET, Nigeria"
+436310,182,Nigeria,2224,Kaduna,1971,Giwa,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,10,2016,26800.0,"FEWS NET, Nigeria"
+436311,182,Nigeria,2224,Kaduna,1971,Giwa,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,11,2016,27460.0,"FEWS NET, Nigeria"
+436312,182,Nigeria,2224,Kaduna,1971,Giwa,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,12,2016,29600.0,"FEWS NET, Nigeria"
+436313,182,Nigeria,2224,Kaduna,1971,Giwa,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,1,2017,32000.0,"FEWS NET, Nigeria"
+436314,182,Nigeria,2224,Kaduna,1971,Giwa,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,2,2017,32000.0,"FEWS NET, Nigeria"
+436315,182,Nigeria,2224,Kaduna,1971,Giwa,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,3,2017,24800.0,FEWSNET
+436316,182,Nigeria,2224,Kaduna,1971,Giwa,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,4,2017,27125.0,FEWS NET
+436317,182,Nigeria,2224,Kaduna,1971,Giwa,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,5,2017,29300.0,FEWS NET
+436848,182,Nigeria,65704,Gombe,1972,Gombe,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,7,2014,13000.0,"FEWS NET, Nigeria"
+436849,182,Nigeria,65704,Gombe,1972,Gombe,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,8,2014,13250.0,"FEWS NET, Nigeria"
+436850,182,Nigeria,65704,Gombe,1972,Gombe,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,9,2014,13200.0,"FEWS NET, Nigeria"
+436851,182,Nigeria,65704,Gombe,1972,Gombe,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,10,2014,11750.0,"FEWS NET, Nigeria"
+436852,182,Nigeria,65704,Gombe,1972,Gombe,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,11,2014,11625.0,"FEWS NET, Nigeria"
+436853,182,Nigeria,65704,Gombe,1972,Gombe,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,12,2014,11600.0,"FEWS NET, Nigeria"
+436854,182,Nigeria,65704,Gombe,1972,Gombe,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,1,2015,11375.0,"FEWS NET, Nigeria"
+436855,182,Nigeria,65704,Gombe,1972,Gombe,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,2,2015,11750.0,"FEWS NET, Nigeria"
+436856,182,Nigeria,65704,Gombe,1972,Gombe,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,3,2015,11100.0,"FEWS NET, Nigeria"
+436857,182,Nigeria,65704,Gombe,1972,Gombe,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,4,2015,11875.0,"FEWS NET, Nigeria"
+436858,182,Nigeria,65704,Gombe,1972,Gombe,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,5,2015,12125.0,"FEWS NET, Nigeria"
+436859,182,Nigeria,65704,Gombe,1972,Gombe,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,6,2015,12000.0,"FEWS NET, Nigeria"
+436860,182,Nigeria,65704,Gombe,1972,Gombe,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,7,2015,12200.0,"FEWS NET, Nigeria"
+436861,182,Nigeria,65704,Gombe,1972,Gombe,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,8,2015,12000.0,"FEWS NET, Nigeria"
+436862,182,Nigeria,65704,Gombe,1972,Gombe,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,9,2015,14800.0,"FEWS NET, Nigeria"
+436863,182,Nigeria,65704,Gombe,1972,Gombe,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,10,2015,14250.0,"FEWS NET, Nigeria"
+436864,182,Nigeria,65704,Gombe,1972,Gombe,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,11,2015,10875.0,"FEWS NET, Nigeria"
+436865,182,Nigeria,65704,Gombe,1972,Gombe,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,12,2015,12200.0,"FEWS NET, Nigeria"
+436866,182,Nigeria,65704,Gombe,1972,Gombe,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,1,2016,12500.0,"FEWS NET, Nigeria"
+436867,182,Nigeria,65704,Gombe,1972,Gombe,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,2,2016,14750.0,"FEWS NET, Nigeria"
+436868,182,Nigeria,65704,Gombe,1972,Gombe,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,3,2016,18000.0,"FEWS NET, Nigeria"
+436869,182,Nigeria,65704,Gombe,1972,Gombe,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,4,2016,19875.0,"FEWS NET, Nigeria"
+436870,182,Nigeria,65704,Gombe,1972,Gombe,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,5,2016,21750.0,"FEWS NET, Nigeria"
+436871,182,Nigeria,65704,Gombe,1972,Gombe,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,6,2016,24300.0,"FEWS NET, Nigeria"
+436872,182,Nigeria,65704,Gombe,1972,Gombe,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,7,2016,24750.0,"FEWS NET, Nigeria"
+436873,182,Nigeria,65704,Gombe,1972,Gombe,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,8,2016,28400.0,"FEWS NET, Nigeria"
+436874,182,Nigeria,65704,Gombe,1972,Gombe,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,9,2016,23750.0,"FEWS NET, Nigeria"
+436875,182,Nigeria,65704,Gombe,1972,Gombe,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,10,2016,21500.0,"FEWS NET, Nigeria"
+436876,182,Nigeria,65704,Gombe,1972,Gombe,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,11,2016,24400.0,"FEWS NET, Nigeria"
+436877,182,Nigeria,65704,Gombe,1972,Gombe,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,12,2016,26000.0,"FEWS NET, Nigeria"
+436878,182,Nigeria,65704,Gombe,1972,Gombe,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,1,2017,26250.0,"FEWS NET, Nigeria"
+436879,182,Nigeria,65704,Gombe,1972,Gombe,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,2,2017,24500.0,"FEWS NET, Nigeria"
+436880,182,Nigeria,65704,Gombe,1972,Gombe,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,3,2017,27800.0,FEWSNET
+436881,182,Nigeria,65704,Gombe,1972,Gombe,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,4,2017,26000.0,FEWS NET
+436882,182,Nigeria,65704,Gombe,1972,Gombe,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,5,2017,26200.0,FEWS NET
+437430,182,Nigeria,2223,Jigawa,1973,Gujungu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,7,2014,14400.0,"FEWS NET, Nigeria"
+437431,182,Nigeria,2223,Jigawa,1973,Gujungu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,8,2014,14220.0,"FEWS NET, Nigeria"
+437432,182,Nigeria,2223,Jigawa,1973,Gujungu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,9,2014,14080.2,"FEWS NET, Nigeria"
+437433,182,Nigeria,2223,Jigawa,1973,Gujungu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,10,2014,14080.0,"FEWS NET, Nigeria"
+437434,182,Nigeria,2223,Jigawa,1973,Gujungu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,11,2014,14080.0,"FEWS NET, Nigeria"
+437435,182,Nigeria,2223,Jigawa,1973,Gujungu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,12,2014,14820.0,"FEWS NET, Nigeria"
+437436,182,Nigeria,2223,Jigawa,1973,Gujungu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,1,2015,13485.0,"FEWS NET, Nigeria"
+437437,182,Nigeria,2223,Jigawa,1973,Gujungu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,2,2015,14000.0,"FEWS NET, Nigeria"
+437438,182,Nigeria,2223,Jigawa,1973,Gujungu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,3,2015,14000.0,"FEWS NET, Nigeria"
+437439,182,Nigeria,2223,Jigawa,1973,Gujungu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,4,2015,14000.0,"FEWS NET, Nigeria"
+437440,182,Nigeria,2223,Jigawa,1973,Gujungu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,5,2015,14630.0,"FEWS NET, Nigeria"
+437441,182,Nigeria,2223,Jigawa,1973,Gujungu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,6,2015,14480.0,"FEWS NET, Nigeria"
+437442,182,Nigeria,2223,Jigawa,1973,Gujungu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,7,2015,14000.0,"FEWS NET, Nigeria"
+437443,182,Nigeria,2223,Jigawa,1973,Gujungu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,8,2015,14000.0,"FEWS NET, Nigeria"
+437444,182,Nigeria,2223,Jigawa,1973,Gujungu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,9,2015,14000.0,"FEWS NET, Nigeria"
+437445,182,Nigeria,2223,Jigawa,1973,Gujungu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,10,2015,14000.0,"FEWS NET, Nigeria"
+437446,182,Nigeria,2223,Jigawa,1973,Gujungu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,11,2015,14000.0,"FEWS NET, Nigeria"
+437447,182,Nigeria,2223,Jigawa,1973,Gujungu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,12,2015,14000.0,"FEWS NET, Nigeria"
+437448,182,Nigeria,2223,Jigawa,1973,Gujungu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,1,2016,14000.0,"FEWS NET, Nigeria"
+437449,182,Nigeria,2223,Jigawa,1973,Gujungu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,2,2016,14000.0,"FEWS NET, Nigeria"
+437450,182,Nigeria,2223,Jigawa,1973,Gujungu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,3,2016,14000.0,"FEWS NET, Nigeria"
+437451,182,Nigeria,2223,Jigawa,1973,Gujungu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,4,2016,20700.0,"FEWS NET, Nigeria"
+437452,182,Nigeria,2223,Jigawa,1973,Gujungu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,5,2016,24000.0,"FEWS NET, Nigeria"
+437453,182,Nigeria,2223,Jigawa,1973,Gujungu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,6,2016,24600.0,"FEWS NET, Nigeria"
+437454,182,Nigeria,2223,Jigawa,1973,Gujungu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,7,2016,24750.0,"FEWS NET, Nigeria"
+437455,182,Nigeria,2223,Jigawa,1973,Gujungu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,8,2016,25200.0,"FEWS NET, Nigeria"
+437456,182,Nigeria,2223,Jigawa,1973,Gujungu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,9,2016,25500.0,"FEWS NET, Nigeria"
+437457,182,Nigeria,2223,Jigawa,1973,Gujungu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,10,2016,25000.0,"FEWS NET, Nigeria"
+437458,182,Nigeria,2223,Jigawa,1973,Gujungu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,11,2016,25144.0,"FEWS NET, Nigeria"
+437459,182,Nigeria,2223,Jigawa,1973,Gujungu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,12,2016,26220.0,"FEWS NET, Nigeria"
+437460,182,Nigeria,2223,Jigawa,1973,Gujungu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,1,2017,28230.0,"FEWS NET, Nigeria"
+437461,182,Nigeria,2223,Jigawa,1973,Gujungu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,2,2017,28095.0,"FEWS NET, Nigeria"
+437462,182,Nigeria,2223,Jigawa,1973,Gujungu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,3,2017,28280.0,FEWSNET
+437463,182,Nigeria,2223,Jigawa,1973,Gujungu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,4,2017,29525.0,FEWS NET
+437464,182,Nigeria,2223,Jigawa,1973,Gujungu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,5,2017,31260.0,FEWS NET
+437998,182,Nigeria,2227,Kebbi,1974,Gwandu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,7,2014,14000.0,"FEWS NET, Nigeria"
+437999,182,Nigeria,2227,Kebbi,1974,Gwandu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,8,2014,14775.0,"FEWS NET, Nigeria"
+438000,182,Nigeria,2227,Kebbi,1974,Gwandu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,9,2014,13860.0,"FEWS NET, Nigeria"
+438001,182,Nigeria,2227,Kebbi,1974,Gwandu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,10,2014,14600.0,"FEWS NET, Nigeria"
+438002,182,Nigeria,2227,Kebbi,1974,Gwandu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,11,2014,14150.0,"FEWS NET, Nigeria"
+438003,182,Nigeria,2227,Kebbi,1974,Gwandu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,12,2014,14180.0,"FEWS NET, Nigeria"
+438004,182,Nigeria,2227,Kebbi,1974,Gwandu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,1,2015,13575.0,"FEWS NET, Nigeria"
+438005,182,Nigeria,2227,Kebbi,1974,Gwandu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,2,2015,13645.0,"FEWS NET, Nigeria"
+438006,182,Nigeria,2227,Kebbi,1974,Gwandu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,3,2015,13496.0,"FEWS NET, Nigeria"
+438007,182,Nigeria,2227,Kebbi,1974,Gwandu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,4,2015,14575.0,"FEWS NET, Nigeria"
+438008,182,Nigeria,2227,Kebbi,1974,Gwandu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,5,2015,14450.0,"FEWS NET, Nigeria"
+438009,182,Nigeria,2227,Kebbi,1974,Gwandu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,6,2015,13950.0,"FEWS NET, Nigeria"
+438010,182,Nigeria,2227,Kebbi,1974,Gwandu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,7,2015,14180.0,"FEWS NET, Nigeria"
+438011,182,Nigeria,2227,Kebbi,1974,Gwandu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,8,2015,14600.0,"FEWS NET, Nigeria"
+438012,182,Nigeria,2227,Kebbi,1974,Gwandu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,9,2015,14892.0,"FEWS NET, Nigeria"
+438013,182,Nigeria,2227,Kebbi,1974,Gwandu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,10,2015,14600.0,"FEWS NET, Nigeria"
+438014,182,Nigeria,2227,Kebbi,1974,Gwandu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,11,2015,14460.0,"FEWS NET, Nigeria"
+438015,182,Nigeria,2227,Kebbi,1974,Gwandu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,12,2015,14584.0,"FEWS NET, Nigeria"
+438016,182,Nigeria,2227,Kebbi,1974,Gwandu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,1,2016,15195.0,"FEWS NET, Nigeria"
+438017,182,Nigeria,2227,Kebbi,1974,Gwandu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,2,2016,17005.0,"FEWS NET, Nigeria"
+438018,182,Nigeria,2227,Kebbi,1974,Gwandu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,3,2016,18120.0,"FEWS NET, Nigeria"
+438019,182,Nigeria,2227,Kebbi,1974,Gwandu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,4,2016,18965.0,"FEWS NET, Nigeria"
+438020,182,Nigeria,2227,Kebbi,1974,Gwandu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,5,2016,22055.0,"FEWS NET, Nigeria"
+438021,182,Nigeria,2227,Kebbi,1974,Gwandu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,6,2016,25676.0,"FEWS NET, Nigeria"
+438022,182,Nigeria,2227,Kebbi,1974,Gwandu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,7,2016,27550.0,"FEWS NET, Nigeria"
+438023,182,Nigeria,2227,Kebbi,1974,Gwandu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,8,2016,28840.0,"FEWS NET, Nigeria"
+438024,182,Nigeria,2227,Kebbi,1974,Gwandu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,9,2016,24685.0,"FEWS NET, Nigeria"
+438025,182,Nigeria,2227,Kebbi,1974,Gwandu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,10,2016,23315.0,"FEWS NET, Nigeria"
+438026,182,Nigeria,2227,Kebbi,1974,Gwandu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,11,2016,25220.0,"FEWS NET, Nigeria"
+438027,182,Nigeria,2227,Kebbi,1974,Gwandu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,12,2016,27275.0,"FEWS NET, Nigeria"
+438028,182,Nigeria,2227,Kebbi,1974,Gwandu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,1,2017,30375.0,"FEWS NET, Nigeria"
+438029,182,Nigeria,2227,Kebbi,1974,Gwandu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,2,2017,28645.0,"FEWS NET, Nigeria"
+438030,182,Nigeria,2227,Kebbi,1974,Gwandu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,3,2017,29100.0,FEWSNET
+438031,182,Nigeria,2227,Kebbi,1974,Gwandu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,4,2017,30160.0,FEWS NET
+438032,182,Nigeria,2227,Kebbi,1974,Gwandu,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,5,2017,31560.0,FEWS NET
+438595,182,Nigeria,2235,Oyo,1975,Ibadan,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,7,2014,16500.0,"FEWS NET, Nigeria"
+438596,182,Nigeria,2235,Oyo,1975,Ibadan,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,8,2014,16500.0,"FEWS NET, Nigeria"
+438597,182,Nigeria,2235,Oyo,1975,Ibadan,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,9,2014,16500.0,"FEWS NET, Nigeria"
+438598,182,Nigeria,2235,Oyo,1975,Ibadan,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,10,2014,16500.0,"FEWS NET, Nigeria"
+438599,182,Nigeria,2235,Oyo,1975,Ibadan,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,11,2014,16500.0,"FEWS NET, Nigeria"
+438600,182,Nigeria,2235,Oyo,1975,Ibadan,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,12,2014,16500.0,"FEWS NET, Nigeria"
+438601,182,Nigeria,2235,Oyo,1975,Ibadan,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,1,2015,16500.0,"FEWS NET, Nigeria"
+438602,182,Nigeria,2235,Oyo,1975,Ibadan,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,2,2015,16125.0,"FEWS NET, Nigeria"
+438603,182,Nigeria,2235,Oyo,1975,Ibadan,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,3,2015,15000.0,"FEWS NET, Nigeria"
+438604,182,Nigeria,2235,Oyo,1975,Ibadan,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,4,2015,15000.0,"FEWS NET, Nigeria"
+438605,182,Nigeria,2235,Oyo,1975,Ibadan,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,5,2015,15000.0,"FEWS NET, Nigeria"
+438606,182,Nigeria,2235,Oyo,1975,Ibadan,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,6,2015,15000.0,"FEWS NET, Nigeria"
+438607,182,Nigeria,2235,Oyo,1975,Ibadan,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,7,2015,15000.0,"FEWS NET, Nigeria"
+438608,182,Nigeria,2235,Oyo,1975,Ibadan,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,8,2015,15000.0,"FEWS NET, Nigeria"
+438609,182,Nigeria,2235,Oyo,1975,Ibadan,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,9,2015,15000.0,"FEWS NET, Nigeria"
+438610,182,Nigeria,2235,Oyo,1975,Ibadan,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,10,2015,14200.0,"FEWS NET, Nigeria"
+438611,182,Nigeria,2235,Oyo,1975,Ibadan,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,11,2015,16000.0,"FEWS NET, Nigeria"
+438612,182,Nigeria,2235,Oyo,1975,Ibadan,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,12,2015,14620.0,"FEWS NET, Nigeria"
+438613,182,Nigeria,2235,Oyo,1975,Ibadan,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,1,2016,13700.0,"FEWS NET, Nigeria"
+438614,182,Nigeria,2235,Oyo,1975,Ibadan,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,2,2016,14400.0,"FEWS NET, Nigeria"
+438615,182,Nigeria,2235,Oyo,1975,Ibadan,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,3,2016,16500.0,"FEWS NET, Nigeria"
+438616,182,Nigeria,2235,Oyo,1975,Ibadan,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,4,2016,16500.0,"FEWS NET, Nigeria"
+438617,182,Nigeria,2235,Oyo,1975,Ibadan,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,5,2016,22725.0,"FEWS NET, Nigeria"
+438618,182,Nigeria,2235,Oyo,1975,Ibadan,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,6,2016,26440.0,"FEWS NET, Nigeria"
+438619,182,Nigeria,2235,Oyo,1975,Ibadan,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,7,2016,30200.0,"FEWS NET, Nigeria"
+438620,182,Nigeria,2235,Oyo,1975,Ibadan,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,8,2016,34600.0,"FEWS NET, Nigeria"
+438621,182,Nigeria,2235,Oyo,1975,Ibadan,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,9,2016,35000.0,"FEWS NET, Nigeria"
+438622,182,Nigeria,2235,Oyo,1975,Ibadan,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,10,2016,33000.0,"FEWS NET, Nigeria"
+438623,182,Nigeria,2235,Oyo,1975,Ibadan,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,11,2016,33000.0,"FEWS NET, Nigeria"
+438624,182,Nigeria,2235,Oyo,1975,Ibadan,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,12,2016,33000.0,"FEWS NET, Nigeria"
+438625,182,Nigeria,2235,Oyo,1975,Ibadan,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,1,2017,33000.0,"FEWS NET, Nigeria"
+438626,182,Nigeria,2235,Oyo,1975,Ibadan,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,2,2017,33000.0,"FEWS NET, Nigeria"
+438627,182,Nigeria,2235,Oyo,1975,Ibadan,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,3,2017,33200.0,FEWSNET
+438628,182,Nigeria,2235,Oyo,1975,Ibadan,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,4,2017,32200.0,FEWS NET
+438629,182,Nigeria,2235,Oyo,1975,Ibadan,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,5,2017,31000.0,FEWS NET
+439157,182,Nigeria,2225,Kano,1976,Dawanau,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,7,2014,14000.0,"FEWS NET, Nigeria"
+439158,182,Nigeria,2225,Kano,1976,Dawanau,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,8,2014,14000.0,"FEWS NET, Nigeria"
+439159,182,Nigeria,2225,Kano,1976,Dawanau,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,9,2014,14000.0,"FEWS NET, Nigeria"
+439160,182,Nigeria,2225,Kano,1976,Dawanau,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,10,2014,14000.0,"FEWS NET, Nigeria"
+439161,182,Nigeria,2225,Kano,1976,Dawanau,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,11,2014,13060.0,"FEWS NET, Nigeria"
+439162,182,Nigeria,2225,Kano,1976,Dawanau,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,12,2014,13160.2,"FEWS NET, Nigeria"
+439163,182,Nigeria,2225,Kano,1976,Dawanau,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,1,2015,13700.0,"FEWS NET, Nigeria"
+439164,182,Nigeria,2225,Kano,1976,Dawanau,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,2,2015,14000.0,"FEWS NET, Nigeria"
+439165,182,Nigeria,2225,Kano,1976,Dawanau,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,3,2015,13792.0,"FEWS NET, Nigeria"
+439166,182,Nigeria,2225,Kano,1976,Dawanau,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,4,2015,13800.25,"FEWS NET, Nigeria"
+439167,182,Nigeria,2225,Kano,1976,Dawanau,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,5,2015,14800.0,"FEWS NET, Nigeria"
+439168,182,Nigeria,2225,Kano,1976,Dawanau,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,6,2015,14600.0,"FEWS NET, Nigeria"
+439169,182,Nigeria,2225,Kano,1976,Dawanau,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,7,2015,14224.0,"FEWS NET, Nigeria"
+439170,182,Nigeria,2225,Kano,1976,Dawanau,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,8,2015,14120.0,"FEWS NET, Nigeria"
+439171,182,Nigeria,2225,Kano,1976,Dawanau,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,9,2015,14912.0,"FEWS NET, Nigeria"
+439172,182,Nigeria,2225,Kano,1976,Dawanau,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,10,2015,13100.0,"FEWS NET, Nigeria"
+439173,182,Nigeria,2225,Kano,1976,Dawanau,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,11,2015,12480.0,"FEWS NET, Nigeria"
+439174,182,Nigeria,2225,Kano,1976,Dawanau,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,12,2015,14752.0,"FEWS NET, Nigeria"
+439175,182,Nigeria,2225,Kano,1976,Dawanau,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,1,2016,15915.0,"FEWS NET, Nigeria"
+439176,182,Nigeria,2225,Kano,1976,Dawanau,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,2,2016,17825.0,"FEWS NET, Nigeria"
+439177,182,Nigeria,2225,Kano,1976,Dawanau,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,3,2016,19000.0,"FEWS NET, Nigeria"
+439178,182,Nigeria,2225,Kano,1976,Dawanau,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,4,2016,20325.0,"FEWS NET, Nigeria"
+439179,182,Nigeria,2225,Kano,1976,Dawanau,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,5,2016,25500.0,"FEWS NET, Nigeria"
+439180,182,Nigeria,2225,Kano,1976,Dawanau,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,6,2016,24160.0,"FEWS NET, Nigeria"
+439181,182,Nigeria,2225,Kano,1976,Dawanau,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,7,2016,25400.0,"FEWS NET, Nigeria"
+439182,182,Nigeria,2225,Kano,1976,Dawanau,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,8,2016,28800.0,"FEWS NET, Nigeria"
+439183,182,Nigeria,2225,Kano,1976,Dawanau,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,9,2016,29000.0,"FEWS NET, Nigeria"
+439184,182,Nigeria,2225,Kano,1976,Dawanau,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,10,2016,29625.0,"FEWS NET, Nigeria"
+439185,182,Nigeria,2225,Kano,1976,Dawanau,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,11,2016,25600.0,"FEWS NET, Nigeria"
+439186,182,Nigeria,2225,Kano,1976,Dawanau,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,12,2016,28400.0,"FEWS NET, Nigeria"
+439187,182,Nigeria,2225,Kano,1976,Dawanau,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,1,2017,36500.0,"FEWS NET, Nigeria"
+439188,182,Nigeria,2225,Kano,1976,Dawanau,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,2,2017,35000.0,"FEWS NET, Nigeria"
+439189,182,Nigeria,2225,Kano,1976,Dawanau,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,4,2017,35000.0,FEWS NET
+439190,182,Nigeria,2225,Kano,1976,Dawanau,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,5,2017,33200.0,FEWS NET
+439739,182,Nigeria,65710,Zamfara,1977,Kaura Namoda,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,7,2014,14200.0,"FEWS NET, Nigeria"
+439740,182,Nigeria,65710,Zamfara,1977,Kaura Namoda,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,8,2014,14600.0,"FEWS NET, Nigeria"
+439741,182,Nigeria,65710,Zamfara,1977,Kaura Namoda,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,9,2014,14200.0,"FEWS NET, Nigeria"
+439742,182,Nigeria,65710,Zamfara,1977,Kaura Namoda,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,10,2014,14535.0,"FEWS NET, Nigeria"
+439743,182,Nigeria,65710,Zamfara,1977,Kaura Namoda,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,11,2014,13300.0,"FEWS NET, Nigeria"
+439744,182,Nigeria,65710,Zamfara,1977,Kaura Namoda,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,12,2014,13900.0,"FEWS NET, Nigeria"
+439745,182,Nigeria,65710,Zamfara,1977,Kaura Namoda,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,1,2015,13635.0,"FEWS NET, Nigeria"
+439746,182,Nigeria,65710,Zamfara,1977,Kaura Namoda,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,2,2015,14050.0,"FEWS NET, Nigeria"
+439747,182,Nigeria,65710,Zamfara,1977,Kaura Namoda,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,3,2015,14260.0,"FEWS NET, Nigeria"
+439748,182,Nigeria,65710,Zamfara,1977,Kaura Namoda,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,4,2015,14870.0,"FEWS NET, Nigeria"
+439749,182,Nigeria,65710,Zamfara,1977,Kaura Namoda,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,5,2015,14280.0,"FEWS NET, Nigeria"
+439750,182,Nigeria,65710,Zamfara,1977,Kaura Namoda,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,6,2015,14280.0,"FEWS NET, Nigeria"
+439751,182,Nigeria,65710,Zamfara,1977,Kaura Namoda,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,7,2015,14256.0,"FEWS NET, Nigeria"
+439752,182,Nigeria,65710,Zamfara,1977,Kaura Namoda,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,8,2015,14725.0,"FEWS NET, Nigeria"
+439753,182,Nigeria,65710,Zamfara,1977,Kaura Namoda,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,9,2015,16340.0,"FEWS NET, Nigeria"
+439754,182,Nigeria,65710,Zamfara,1977,Kaura Namoda,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,10,2015,15395.0,"FEWS NET, Nigeria"
+439755,182,Nigeria,65710,Zamfara,1977,Kaura Namoda,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,11,2015,13850.0,"FEWS NET, Nigeria"
+439756,182,Nigeria,65710,Zamfara,1977,Kaura Namoda,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,12,2015,13400.0,"FEWS NET, Nigeria"
+439757,182,Nigeria,65710,Zamfara,1977,Kaura Namoda,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,1,2016,14275.0,"FEWS NET, Nigeria"
+439758,182,Nigeria,65710,Zamfara,1977,Kaura Namoda,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,2,2016,17065.0,"FEWS NET, Nigeria"
+439759,182,Nigeria,65710,Zamfara,1977,Kaura Namoda,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,3,2016,17424.0,"FEWS NET, Nigeria"
+439760,182,Nigeria,65710,Zamfara,1977,Kaura Namoda,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,4,2016,18465.0,"FEWS NET, Nigeria"
+439761,182,Nigeria,65710,Zamfara,1977,Kaura Namoda,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,5,2016,23900.0,"FEWS NET, Nigeria"
+439762,182,Nigeria,65710,Zamfara,1977,Kaura Namoda,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,6,2016,24200.0,"FEWS NET, Nigeria"
+439763,182,Nigeria,65710,Zamfara,1977,Kaura Namoda,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,7,2016,23941.5,"FEWS NET, Nigeria"
+439764,182,Nigeria,65710,Zamfara,1977,Kaura Namoda,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,8,2016,29088.0,"FEWS NET, Nigeria"
+439765,182,Nigeria,65710,Zamfara,1977,Kaura Namoda,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,9,2016,25620.0,"FEWS NET, Nigeria"
+439766,182,Nigeria,65710,Zamfara,1977,Kaura Namoda,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,10,2016,22950.0,"FEWS NET, Nigeria"
+439767,182,Nigeria,65710,Zamfara,1977,Kaura Namoda,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,11,2016,26460.0,"FEWS NET, Nigeria"
+439768,182,Nigeria,65710,Zamfara,1977,Kaura Namoda,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,12,2016,27000.0,"FEWS NET, Nigeria"
+439769,182,Nigeria,65710,Zamfara,1977,Kaura Namoda,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,1,2017,27000.0,"FEWS NET, Nigeria"
+439770,182,Nigeria,65710,Zamfara,1977,Kaura Namoda,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,2,2017,29500.0,"FEWS NET, Nigeria"
+439771,182,Nigeria,65710,Zamfara,1977,Kaura Namoda,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,3,2017,29500.0,FEWSNET
+439772,182,Nigeria,65710,Zamfara,1977,Kaura Namoda,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,4,2017,29500.0,FEWS NET
+439773,182,Nigeria,65710,Zamfara,1977,Kaura Namoda,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,5,2017,29500.0,FEWS NET
+440333,182,Nigeria,2230,Lagos,1978,Lagos,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,7,2014,35000.0,"FEWS NET, Nigeria"
+440334,182,Nigeria,2230,Lagos,1978,Lagos,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,8,2014,35000.0,"FEWS NET, Nigeria"
+440335,182,Nigeria,2230,Lagos,1978,Lagos,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,9,2014,35000.0,"FEWS NET, Nigeria"
+440336,182,Nigeria,2230,Lagos,1978,Lagos,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,10,2014,35000.0,"FEWS NET, Nigeria"
+440337,182,Nigeria,2230,Lagos,1978,Lagos,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,11,2014,35000.0,"FEWS NET, Nigeria"
+440338,182,Nigeria,2230,Lagos,1978,Lagos,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,12,2014,35000.0,"FEWS NET, Nigeria"
+440339,182,Nigeria,2230,Lagos,1978,Lagos,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,2,2015,35000.0,"FEWS NET, Nigeria"
+440340,182,Nigeria,2230,Lagos,1978,Lagos,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,3,2015,35000.0,"FEWS NET, Nigeria"
+440341,182,Nigeria,2230,Lagos,1978,Lagos,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,4,2015,35000.0,"FEWS NET, Nigeria"
+440342,182,Nigeria,2230,Lagos,1978,Lagos,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,5,2015,35000.0,"FEWS NET, Nigeria"
+440343,182,Nigeria,2230,Lagos,1978,Lagos,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,6,2015,35000.0,"FEWS NET, Nigeria"
+440344,182,Nigeria,2230,Lagos,1978,Lagos,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,7,2015,35000.0,"FEWS NET, Nigeria"
+440345,182,Nigeria,2230,Lagos,1978,Lagos,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,8,2015,35000.0,"FEWS NET, Nigeria"
+440346,182,Nigeria,2230,Lagos,1978,Lagos,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,9,2015,35000.0,"FEWS NET, Nigeria"
+440347,182,Nigeria,2230,Lagos,1978,Lagos,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,10,2015,35000.0,"FEWS NET, Nigeria"
+440348,182,Nigeria,2230,Lagos,1978,Lagos,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,11,2015,35000.0,"FEWS NET, Nigeria"
+440349,182,Nigeria,2230,Lagos,1978,Lagos,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,12,2015,35000.0,"FEWS NET, Nigeria"
+440350,182,Nigeria,2230,Lagos,1978,Lagos,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,1,2016,35000.0,"FEWS NET, Nigeria"
+440877,182,Nigeria,2216,Borno,1979,Maiduguri,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,7,2014,16000.0,"FEWS NET, Nigeria"
+440878,182,Nigeria,2216,Borno,1979,Maiduguri,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,8,2014,15875.0,"FEWS NET, Nigeria"
+440879,182,Nigeria,2216,Borno,1979,Maiduguri,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,9,2014,15300.0,"FEWS NET, Nigeria"
+440880,182,Nigeria,2216,Borno,1979,Maiduguri,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,10,2014,15750.0,"FEWS NET, Nigeria"
+440881,182,Nigeria,2216,Borno,1979,Maiduguri,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,11,2014,15625.0,"FEWS NET, Nigeria"
+440882,182,Nigeria,2216,Borno,1979,Maiduguri,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,12,2014,15800.0,"FEWS NET, Nigeria"
+440883,182,Nigeria,2216,Borno,1979,Maiduguri,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,1,2015,15250.0,"FEWS NET, Nigeria"
+440884,182,Nigeria,2216,Borno,1979,Maiduguri,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,2,2015,15000.0,"FEWS NET, Nigeria"
+440885,182,Nigeria,2216,Borno,1979,Maiduguri,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,3,2015,15000.0,"FEWS NET, Nigeria"
+440886,182,Nigeria,2216,Borno,1979,Maiduguri,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,4,2015,15000.0,"FEWS NET, Nigeria"
+440887,182,Nigeria,2216,Borno,1979,Maiduguri,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,5,2015,16000.0,"FEWS NET, Nigeria"
+440888,182,Nigeria,2216,Borno,1979,Maiduguri,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,6,2015,15900.0,"FEWS NET, Nigeria"
+440889,182,Nigeria,2216,Borno,1979,Maiduguri,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,7,2015,15690.0,"FEWS NET, Nigeria"
+440890,182,Nigeria,2216,Borno,1979,Maiduguri,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,8,2015,15600.0,"FEWS NET, Nigeria"
+440891,182,Nigeria,2216,Borno,1979,Maiduguri,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,9,2015,16560.0,"FEWS NET, Nigeria"
+440892,182,Nigeria,2216,Borno,1979,Maiduguri,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,10,2015,17200.0,"FEWS NET, Nigeria"
+440893,182,Nigeria,2216,Borno,1979,Maiduguri,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,11,2015,17200.0,"FEWS NET, Nigeria"
+440894,182,Nigeria,2216,Borno,1979,Maiduguri,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,12,2015,15500.0,"FEWS NET, Nigeria"
+440895,182,Nigeria,2216,Borno,1979,Maiduguri,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,1,2016,16080.0,"FEWS NET, Nigeria"
+440896,182,Nigeria,2216,Borno,1979,Maiduguri,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,2,2016,17345.0,"FEWS NET, Nigeria"
+440897,182,Nigeria,2216,Borno,1979,Maiduguri,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,3,2016,18480.0,"FEWS NET, Nigeria"
+440898,182,Nigeria,2216,Borno,1979,Maiduguri,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,4,2016,21125.0,"FEWS NET, Nigeria"
+440899,182,Nigeria,2216,Borno,1979,Maiduguri,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,5,2016,25750.0,"FEWS NET, Nigeria"
+440900,182,Nigeria,2216,Borno,1979,Maiduguri,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,6,2016,28660.0,"FEWS NET, Nigeria"
+440901,182,Nigeria,2216,Borno,1979,Maiduguri,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,7,2016,28150.0,"FEWS NET, Nigeria"
+440902,182,Nigeria,2216,Borno,1979,Maiduguri,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,8,2016,30700.0,"FEWS NET, Nigeria"
+440903,182,Nigeria,2216,Borno,1979,Maiduguri,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,9,2016,29375.0,"FEWS NET, Nigeria"
+440904,182,Nigeria,2216,Borno,1979,Maiduguri,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,10,2016,27375.0,"FEWS NET, Nigeria"
+440905,182,Nigeria,2216,Borno,1979,Maiduguri,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,11,2016,27192.0,"FEWS NET, Nigeria"
+440906,182,Nigeria,2216,Borno,1979,Maiduguri,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,12,2016,28725.0,"FEWS NET, Nigeria"
+440907,182,Nigeria,2216,Borno,1979,Maiduguri,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,1,2017,30025.0,"FEWS NET, Nigeria"
+440908,182,Nigeria,2216,Borno,1979,Maiduguri,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,2,2017,30450.0,"FEWS NET, Nigeria"
+440909,182,Nigeria,2216,Borno,1979,Maiduguri,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,3,2017,29800.0,FEWSNET
+440910,182,Nigeria,2216,Borno,1979,Maiduguri,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,4,2017,30575.0,FEWS NET
+440911,182,Nigeria,2216,Borno,1979,Maiduguri,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,5,2017,53600.0,FEWS NET
+441438,182,Nigeria,2211,Adamawa,1980,Mubi,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,1,2015,8000.0,"FEWS NET, Nigeria"
+441439,182,Nigeria,2211,Adamawa,1980,Mubi,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,1,2016,12000.0,"FEWS NET, Nigeria"
+441440,182,Nigeria,2211,Adamawa,1980,Mubi,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,2,2016,29510.0,"FEWS NET, Nigeria"
+441441,182,Nigeria,2211,Adamawa,1980,Mubi,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,4,2016,21000.0,"FEWS NET, Nigeria"
+441442,182,Nigeria,2211,Adamawa,1980,Mubi,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,5,2016,21000.0,"FEWS NET, Nigeria"
+441443,182,Nigeria,2211,Adamawa,1980,Mubi,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,6,2016,27400.0,"FEWS NET, Nigeria"
+441444,182,Nigeria,2211,Adamawa,1980,Mubi,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,7,2016,25000.0,"FEWS NET, Nigeria"
+441445,182,Nigeria,2211,Adamawa,1980,Mubi,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,8,2016,29920.0,"FEWS NET, Nigeria"
+441446,182,Nigeria,2211,Adamawa,1980,Mubi,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,9,2016,37550.0,"FEWS NET, Nigeria"
+441447,182,Nigeria,2211,Adamawa,1980,Mubi,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,10,2016,32625.0,"FEWS NET, Nigeria"
+441448,182,Nigeria,2211,Adamawa,1980,Mubi,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,11,2016,33440.0,"FEWS NET, Nigeria"
+441449,182,Nigeria,2211,Adamawa,1980,Mubi,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,12,2016,31350.0,"FEWS NET, Nigeria"
+441450,182,Nigeria,2211,Adamawa,1980,Mubi,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,1,2017,33450.0,"FEWS NET, Nigeria"
+441451,182,Nigeria,2211,Adamawa,1980,Mubi,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,2,2017,29510.0,"FEWS NET, Nigeria"
+441452,182,Nigeria,2211,Adamawa,1980,Mubi,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,3,2017,34960.0,FEWSNET
+441453,182,Nigeria,2211,Adamawa,1980,Mubi,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,4,2017,35000.0,FEWS NET
+441454,182,Nigeria,2211,Adamawa,1980,Mubi,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,5,2017,35320.0,FEWS NET
+441832,182,Nigeria,2240,Yobe,1981,Potiskum,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,1,2015,12500.0,"FEWS NET, Nigeria"
+441833,182,Nigeria,2240,Yobe,1981,Potiskum,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,2,2015,12000.0,"FEWS NET, Nigeria"
+441834,182,Nigeria,2240,Yobe,1981,Potiskum,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,3,2015,11700.0,"FEWS NET, Nigeria"
+441835,182,Nigeria,2240,Yobe,1981,Potiskum,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,4,2015,12000.0,"FEWS NET, Nigeria"
+441836,182,Nigeria,2240,Yobe,1981,Potiskum,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,5,2015,12000.0,"FEWS NET, Nigeria"
+441837,182,Nigeria,2240,Yobe,1981,Potiskum,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,8,2015,12000.0,"FEWS NET, Nigeria"
+441838,182,Nigeria,2240,Yobe,1981,Potiskum,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,9,2015,12600.0,"FEWS NET, Nigeria"
+441839,182,Nigeria,2240,Yobe,1981,Potiskum,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,10,2015,13000.0,"FEWS NET, Nigeria"
+441840,182,Nigeria,2240,Yobe,1981,Potiskum,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,11,2015,13000.0,"FEWS NET, Nigeria"
+441841,182,Nigeria,2240,Yobe,1981,Potiskum,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,12,2015,12200.0,"FEWS NET, Nigeria"
+441842,182,Nigeria,2240,Yobe,1981,Potiskum,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,1,2016,11625.0,"FEWS NET, Nigeria"
+441843,182,Nigeria,2240,Yobe,1981,Potiskum,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,2,2016,12125.0,"FEWS NET, Nigeria"
+441844,182,Nigeria,2240,Yobe,1981,Potiskum,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,3,2016,12500.0,"FEWS NET, Nigeria"
+441845,182,Nigeria,2240,Yobe,1981,Potiskum,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,4,2016,13770.0,"FEWS NET, Nigeria"
+441846,182,Nigeria,2240,Yobe,1981,Potiskum,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,5,2016,15560.0,"FEWS NET, Nigeria"
+441847,182,Nigeria,2240,Yobe,1981,Potiskum,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,6,2016,20000.0,"FEWS NET, Nigeria"
+441848,182,Nigeria,2240,Yobe,1981,Potiskum,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,7,2016,24000.0,"FEWS NET, Nigeria"
+441849,182,Nigeria,2240,Yobe,1981,Potiskum,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,8,2016,24400.0,"FEWS NET, Nigeria"
+441850,182,Nigeria,2240,Yobe,1981,Potiskum,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,9,2016,24450.0,"FEWS NET, Nigeria"
+441851,182,Nigeria,2240,Yobe,1981,Potiskum,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,10,2016,24300.0,"FEWS NET, Nigeria"
+441852,182,Nigeria,2240,Yobe,1981,Potiskum,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,11,2016,24800.0,"FEWS NET, Nigeria"
+441853,182,Nigeria,2240,Yobe,1981,Potiskum,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,12,2016,24300.0,"FEWS NET, Nigeria"
+441854,182,Nigeria,2240,Yobe,1981,Potiskum,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,1,2017,27000.0,"FEWS NET, Nigeria"
+441855,182,Nigeria,2240,Yobe,1981,Potiskum,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,2,2017,27000.0,"FEWS NET, Nigeria"
+441856,182,Nigeria,2240,Yobe,1981,Potiskum,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,3,2017,27600.0,FEWSNET
+441857,182,Nigeria,2240,Yobe,1981,Potiskum,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,4,2017,27850.0,FEWS NET
+441858,182,Nigeria,2240,Yobe,1981,Potiskum,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,5,2017,27800.0,FEWS NET
+442164,182,Nigeria,2224,Kaduna,1982,Saminaka,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,7,2014,14000.0,"FEWS NET, Nigeria"
+442165,182,Nigeria,2224,Kaduna,1982,Saminaka,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,8,2014,14325.0,"FEWS NET, Nigeria"
+442166,182,Nigeria,2224,Kaduna,1982,Saminaka,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,9,2014,14220.0,"FEWS NET, Nigeria"
+442167,182,Nigeria,2224,Kaduna,1982,Saminaka,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,10,2014,13280.0,"FEWS NET, Nigeria"
+442168,182,Nigeria,2224,Kaduna,1982,Saminaka,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,11,2014,14060.0,"FEWS NET, Nigeria"
+442169,182,Nigeria,2224,Kaduna,1982,Saminaka,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,12,2014,12689.0,"FEWS NET, Nigeria"
+442170,182,Nigeria,2224,Kaduna,1982,Saminaka,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,1,2015,11038.0,"FEWS NET, Nigeria"
+442171,182,Nigeria,2224,Kaduna,1982,Saminaka,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,2,2015,14380.0,"FEWS NET, Nigeria"
+442172,182,Nigeria,2224,Kaduna,1982,Saminaka,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,3,2015,14772.0,"FEWS NET, Nigeria"
+442173,182,Nigeria,2224,Kaduna,1982,Saminaka,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,4,2015,14710.0,"FEWS NET, Nigeria"
+442174,182,Nigeria,2224,Kaduna,1982,Saminaka,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,5,2015,15015.0,"FEWS NET, Nigeria"
+442175,182,Nigeria,2224,Kaduna,1982,Saminaka,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,6,2015,15500.0,"FEWS NET, Nigeria"
+442176,182,Nigeria,2224,Kaduna,1982,Saminaka,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,7,2015,16200.0,"FEWS NET, Nigeria"
+442177,182,Nigeria,2224,Kaduna,1982,Saminaka,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,8,2015,15875.0,"FEWS NET, Nigeria"
+442178,182,Nigeria,2224,Kaduna,1982,Saminaka,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,9,2015,14500.0,"FEWS NET, Nigeria"
+442179,182,Nigeria,2224,Kaduna,1982,Saminaka,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,10,2015,13225.0,"FEWS NET, Nigeria"
+442180,182,Nigeria,2224,Kaduna,1982,Saminaka,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,11,2015,11850.0,"FEWS NET, Nigeria"
+442181,182,Nigeria,2224,Kaduna,1982,Saminaka,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,12,2015,14800.0,"FEWS NET, Nigeria"
+442182,182,Nigeria,2224,Kaduna,1982,Saminaka,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,1,2016,15500.0,"FEWS NET, Nigeria"
+442183,182,Nigeria,2224,Kaduna,1982,Saminaka,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,2,2016,16000.0,"FEWS NET, Nigeria"
+442184,182,Nigeria,2224,Kaduna,1982,Saminaka,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,3,2016,16000.0,"FEWS NET, Nigeria"
+442185,182,Nigeria,2224,Kaduna,1982,Saminaka,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,4,2016,20460.0,"FEWS NET, Nigeria"
+442186,182,Nigeria,2224,Kaduna,1982,Saminaka,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,5,2016,23750.0,"FEWS NET, Nigeria"
+442187,182,Nigeria,2224,Kaduna,1982,Saminaka,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,6,2016,25504.0,"FEWS NET, Nigeria"
+442188,182,Nigeria,2224,Kaduna,1982,Saminaka,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,7,2016,27740.0,"FEWS NET, Nigeria"
+442189,182,Nigeria,2224,Kaduna,1982,Saminaka,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,8,2016,29032.0,"FEWS NET, Nigeria"
+442190,182,Nigeria,2224,Kaduna,1982,Saminaka,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,9,2016,25000.0,"FEWS NET, Nigeria"
+442191,182,Nigeria,2224,Kaduna,1982,Saminaka,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,10,2016,22650.0,"FEWS NET, Nigeria"
+442192,182,Nigeria,2224,Kaduna,1982,Saminaka,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,11,2016,22520.0,"FEWS NET, Nigeria"
+442193,182,Nigeria,2224,Kaduna,1982,Saminaka,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,12,2016,24450.0,"FEWS NET, Nigeria"
+442194,182,Nigeria,2224,Kaduna,1982,Saminaka,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,1,2017,29235.0,"FEWS NET, Nigeria"
+442195,182,Nigeria,2224,Kaduna,1982,Saminaka,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,2,2017,20400.0,"FEWS NET, Nigeria"
+442196,182,Nigeria,2224,Kaduna,1982,Saminaka,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,3,2017,27016.0,FEWSNET
+442197,182,Nigeria,2224,Kaduna,1982,Saminaka,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,4,2017,28310.0,FEWS NET
+442198,182,Nigeria,2224,Kaduna,1982,Saminaka,71,Rice (local),95,NGN,14,Wholesale,9,100 KG,5,2017,29600.0,FEWS NET
+432161,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,1,2002,153.3485,SIMA - Niger
+432162,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,3,2002,171.2454,SIMA - Niger
+432163,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,4,2002,188.3671,SIMA - Niger
+432164,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,5,2002,189.039,SIMA - Niger
+432165,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,6,2002,187.8219,SIMA - Niger
+432166,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,7,2002,229.083,SIMA - Niger
+432167,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,8,2002,204.9905,SIMA - Niger
+432168,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,9,2002,133.0567,SIMA - Niger
+432169,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,10,2002,102.2852,SIMA - Niger
+432170,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,11,2002,97.7519,SIMA - Niger
+432171,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,12,2002,103.4912,SIMA - Niger
+432172,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,1,2003,114.2699,SIMA - Niger
+432173,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,2,2003,118.2091,SIMA - Niger
+432174,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,3,2003,110.3594,SIMA - Niger
+432175,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,4,2003,104.7442,SIMA - Niger
+432176,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,5,2003,104.4585,SIMA - Niger
+432177,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,6,2003,99.3027,SIMA - Niger
+432178,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,7,2003,85.9445,SIMA - Niger
+432179,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,8,2003,76.7177,SIMA - Niger
+432180,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,9,2003,67.9734,SIMA - Niger
+432181,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,10,2003,76.0621,SIMA - Niger
+432182,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,11,2003,73.4133,SIMA - Niger
+432183,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,12,2003,74.8702,SIMA - Niger
+432184,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,1,2005,147.1239,SIMA - Niger
+432185,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,2,2005,157.359,SIMA - Niger
+432186,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,3,2005,163.2062,SIMA - Niger
+432187,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,4,2005,185.1852,SIMA - Niger
+432188,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,5,2005,191.6667,SIMA - Niger
+432189,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,6,2005,218.547,SIMA - Niger
+432190,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,7,2005,254.7796,SIMA - Niger
+432191,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,8,2005,206.7686,SIMA - Niger
+432192,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,9,2005,131.5295,SIMA - Niger
+432193,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,10,2005,126.283,SIMA - Niger
+432194,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,11,2005,121.0,SIMA - Niger
+432195,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,12,2005,121.6615,SIMA - Niger
+432196,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,1,2006,129.6109,SIMA - Niger
+432197,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,2,2006,148.583,SIMA - Niger
+432198,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,3,2006,141.763,SIMA - Niger
+432199,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,4,2006,142.0665,SIMA - Niger
+432200,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,5,2006,134.0856,SIMA - Niger
+432201,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,6,2006,125.8333,SIMA - Niger
+432202,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,1,2007,98.3435,SIMA - Niger
+432203,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,2,2007,104.902,SIMA - Niger
+432204,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,3,2007,122.8559,SIMA - Niger
+432205,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,4,2007,123.5294,SIMA - Niger
+432206,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,1,2008,167.049,SIMA - Niger
+432207,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,2,2008,176.5386,SIMA - Niger
+432208,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,3,2008,187.0036,SIMA - Niger
+432209,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,4,2008,196.4311,SIMA - Niger
+432210,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,5,2008,206.4273,SIMA - Niger
+432211,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,6,2008,221.5681,SIMA - Niger
+432212,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,7,2008,217.9364,SIMA - Niger
+432213,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,8,2008,201.9,SIMA - Niger
+432214,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,9,2008,177.9117,SIMA - Niger
+432215,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,10,2008,166.0305,SIMA - Niger
+432216,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,11,2008,182.0,SIMA - Niger
+432217,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,12,2008,171.0,SIMA - Niger
+432218,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,1,2009,165.5381,SIMA - Niger
+432219,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,2,2009,191.0945,SIMA - Niger
+432220,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,7,2009,203.0,SIMA - Niger
+432221,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,8,2009,207.6923,SIMA - Niger
+432222,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,9,2009,196.0492,SIMA - Niger
+432223,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,10,2009,180.2708,SIMA - Niger
+432224,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,11,2009,168.7179,SIMA - Niger
+432225,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,12,2009,182.6707,SIMA - Niger
+432226,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,1,2010,185.0048,SIMA - Niger
+432227,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,2,2010,162.3698,SIMA - Niger
+432228,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,3,2010,173.1183,SIMA - Niger
+432229,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,4,2010,190.7971,SIMA - Niger
+432230,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,6,2010,214.8079,SIMA - Niger
+432231,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,7,2010,212.301,SIMA - Niger
+432232,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,8,2010,203.3333,SIMA - Niger
+432233,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,9,2010,206.6129,SIMA - Niger
+432234,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,10,2010,206.6129,SIMA - Niger
+432235,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,11,2010,164.621,SIMA - Niger
+432236,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,12,2010,174.3141,SIMA - Niger
+432237,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,1,2011,168.9964,SIMA - Niger
+432238,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,2,2011,167.3597,SIMA - Niger
+432239,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,3,2011,169.77,SIMA - Niger
+432240,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,4,2011,157.626,SIMA - Niger
+432241,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,5,2011,183.9763,SIMA - Niger
+432242,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,6,2011,164.7059,SIMA - Niger
+432243,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,7,2011,167.4144,SIMA - Niger
+432244,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,8,2011,166.7378,SIMA - Niger
+432245,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,9,2011,165.5386,SIMA - Niger
+432246,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,10,2011,157.021,SIMA - Niger
+432247,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,11,2011,184.2634,SIMA - Niger
+432248,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,12,2011,210.5797,SIMA - Niger
+432249,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,1,2012,190.3434,SIMA - Niger
+432250,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,2,2012,200.0948,SIMA - Niger
+432251,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,3,2012,198.4375,SIMA - Niger
+432252,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,4,2012,209.0712,SIMA - Niger
+432253,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,5,2012,214.8438,SIMA - Niger
+432254,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,7,2012,234.8974,SIMA - Niger
+432255,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,8,2012,237.4439,SIMA - Niger
+432256,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,9,2012,216.3934,SIMA - Niger
+432257,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,10,2012,191.2568,SIMA - Niger
+432258,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,11,2012,183.6066,SIMA - Niger
+432259,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,12,2012,179.4872,SIMA - Niger
+432260,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,1,2013,187.9041,SIMA - Niger
+432261,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,2,2013,199.4712,SIMA - Niger
+432262,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,3,2013,231.1307,SIMA NIGER
+432263,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,4,2013,239.5018,SIMA NIGER
+432264,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,5,2013,219.0778,SIMA NIGER
+432265,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,6,2013,222.427,SIMA NIGER
+432266,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,7,2013,253.8462,SIMA NIGER
+432267,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,8,2013,250.7813,SIMA NIGER
+432268,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,9,2013,200.3301,SIMA NIGER
+432269,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,10,2013,166.7688,SIMA NIGER
+432270,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,11,2013,174.5989,SIMA NIGER
+432271,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,12,2013,188.4256,SIMA NIGER
+432272,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,1,2014,189.3294,SIMA NIGER
+432273,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,2,2014,191.2511,SIMA NIGER
+432274,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,3,2014,188.0469,SIMA NIGER
+432275,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,4,2014,180.7143,SIMA NIGER
+432276,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,5,2014,175.8771,SIMA NIGER
+432277,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,6,2014,175.8751,SIMA NIGER
+432278,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,7,2014,158.8219,SIMA NIGER
+432279,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,8,2014,153.7098,SIMA NIGER
+432280,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,9,2014,134.5421,SIMA NIGER
+432281,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,10,2014,136.9956,SIMA NIGER
+432282,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,1,2015,125.1686,SIMA NIGER
+432283,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,2,2015,127.2739,SIMA NIGER
+432284,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,3,2015,144.7858,SIMA NIGER
+432285,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,4,2015,142.0,SIMA NIGER
+432286,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,5,2015,157.0,SIMA NIGER
+432287,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,6,2015,161.0,SIMA NIGER
+432288,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,7,2015,151.0,SIMA NIGER
+432289,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,8,2015,169.0,SIMA NIGER
+432290,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,9,2015,177.0,SIMA NIGER
+432291,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,12,2015,146.0,SIMA NIGER
+432292,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,1,2016,145.0,SIMA NIGER
+432293,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,2,2016,152.0,SIMA NIGER
+432294,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,3,2016,154.0,SIMA NIGER
+432295,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,4,2016,160.0,SIMA NIGER
+432296,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,5,2016,157.0,SIMA NIGER
+432297,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,6,2016,182.0,SIMA NIGER
+432298,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,7,2016,198.0,SIMA NIGER
+432299,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,8,2016,235.0,SIMA NIGER
+432300,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,9,2016,245.0,SIMA NIGER
+432301,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,10,2016,245.0,SIMA NIGER
+432302,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,11,2016,176.0,SIMA NIGER
+432303,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,1,2017,177.0,SIMA NIGER
+432304,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,2,2017,218.0,SIMA NIGER
+432305,182,Nigeria,65709,Sokoto,1037,Illela (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,3,2017,217.0,SIMA NIGER
+432766,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,1,2002,175.9193,SIMA - Niger
+432767,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,2,2002,169.7625,SIMA - Niger
+432768,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,3,2002,181.9444,SIMA - Niger
+432769,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,4,2002,190.2174,SIMA - Niger
+432770,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,5,2002,208.6663,SIMA - Niger
+432771,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,6,2002,222.2564,SIMA - Niger
+432772,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,7,2002,233.4751,SIMA - Niger
+432773,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,8,2002,216.4526,SIMA - Niger
+432774,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,9,2002,135.4579,SIMA - Niger
+432775,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,10,2002,112.5,SIMA - Niger
+432776,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,11,2002,98.3333,SIMA - Niger
+432777,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,12,2002,110.0123,SIMA - Niger
+432778,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,1,2003,109.0513,SIMA - Niger
+432779,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,3,2003,99.1197,SIMA - Niger
+432780,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,6,2003,95.346,SIMA - Niger
+432781,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,9,2003,96.5148,SIMA - Niger
+432782,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,12,2003,80.7692,SIMA - Niger
+432783,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,3,2005,168.4982,SIMA - Niger
+432784,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,6,2005,239.0622,SIMA - Niger
+432785,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,9,2005,153.7775,SIMA - Niger
+432786,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,12,2005,138.187,SIMA - Niger
+432787,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,3,2006,133.0409,SIMA - Niger
+432788,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,6,2006,147.6252,SIMA - Niger
+432789,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,3,2007,103.0,SIMA - Niger
+432790,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,2,2008,195.2233,SIMA - Niger
+432791,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,3,2008,184.6333,SIMA - Niger
+432792,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,4,2008,172.9003,SIMA - Niger
+432793,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,5,2008,231.999,SIMA - Niger
+432794,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,6,2008,248.0715,SIMA - Niger
+432795,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,7,2008,254.0773,SIMA - Niger
+432796,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,8,2008,241.7089,SIMA - Niger
+432797,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,9,2008,195.4414,SIMA - Niger
+432798,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,10,2008,169.1729,SIMA - Niger
+432799,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,11,2008,172.0,SIMA - Niger
+432800,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,12,2008,165.0,SIMA - Niger
+432801,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,1,2009,157.2132,SIMA - Niger
+432802,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,2,2009,162.4656,SIMA - Niger
+432803,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,7,2009,216.0,SIMA - Niger
+432804,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,8,2009,160.8683,SIMA - Niger
+432805,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,9,2009,108.6729,SIMA - Niger
+432806,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,10,2009,102.7983,SIMA - Niger
+432807,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,11,2009,92.738,SIMA - Niger
+432808,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,12,2009,153.6145,SIMA - Niger
+432809,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,1,2010,154.2501,SIMA - Niger
+432810,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,2,2010,155.323,SIMA - Niger
+432811,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,3,2010,152.9554,SIMA - Niger
+432812,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,4,2010,173.0619,SIMA - Niger
+432813,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,5,2010,172.8188,SIMA - Niger
+432814,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,6,2010,192.1714,SIMA - Niger
+432815,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,7,2010,182.9719,SIMA - Niger
+432816,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,8,2010,166.9856,SIMA - Niger
+432817,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,9,2010,121.7742,SIMA - Niger
+432818,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,10,2010,128.8018,SIMA - Niger
+432819,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,11,2010,142.4026,SIMA - Niger
+432820,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,12,2010,151.6556,SIMA - Niger
+432821,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,1,2011,153.8497,SIMA - Niger
+432822,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,2,2011,147.9779,SIMA - Niger
+432823,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,3,2011,158.7017,SIMA - Niger
+432824,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,4,2011,183.9745,SIMA - Niger
+432825,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,5,2011,180.5342,SIMA - Niger
+432826,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,6,2011,183.1737,SIMA - Niger
+432827,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,7,2011,183.2993,SIMA - Niger
+432828,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,8,2011,174.7219,SIMA - Niger
+432829,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,9,2011,151.8151,SIMA - Niger
+432830,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,10,2011,144.657,SIMA - Niger
+432831,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,11,2011,157.1398,SIMA - Niger
+432832,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,12,2011,162.005,SIMA - Niger
+432833,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,1,2012,172.812,SIMA - Niger
+432834,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,2,2012,170.5714,SIMA - Niger
+432835,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,3,2012,178.1015,SIMA - Niger
+432836,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,4,2012,188.1319,SIMA - Niger
+432837,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,5,2012,196.6431,SIMA - Niger
+432838,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,7,2012,222.4226,SIMA - Niger
+432839,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,8,2012,231.0855,SIMA - Niger
+432840,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,9,2012,211.0821,SIMA - Niger
+432841,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,10,2012,168.3014,SIMA - Niger
+432842,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,11,2012,195.2296,SIMA - Niger
+432843,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,12,2012,188.2659,SIMA - Niger
+432844,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,1,2013,197.213,SIMA - Niger
+432845,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,2,2013,202.8769,SIMA - Niger
+432846,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,3,2013,221.7311,SIMA NIGER
+432847,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,4,2013,235.0651,SIMA NIGER
+432848,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,5,2013,248.6334,SIMA NIGER
+432849,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,6,2013,261.7477,SIMA NIGER
+432850,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,7,2013,264.7077,SIMA NIGER
+432851,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,8,2013,239.6935,SIMA NIGER
+432852,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,9,2013,184.7689,SIMA NIGER
+432853,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,10,2013,168.3566,SIMA NIGER
+432854,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,11,2013,172.8297,SIMA NIGER
+432855,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,12,2013,169.2483,SIMA NIGER
+432856,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,1,2014,165.6974,SIMA NIGER
+432857,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,2,2014,166.3437,SIMA NIGER
+432858,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,3,2014,178.4472,SIMA NIGER
+432859,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,4,2014,174.1434,SIMA NIGER
+432860,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,5,2014,168.0136,SIMA NIGER
+432861,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,6,2014,164.3382,SIMA NIGER
+432862,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,7,2014,155.8153,SIMA NIGER
+432863,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,8,2014,154.166,SIMA NIGER
+432864,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,9,2014,153.1651,SIMA NIGER
+432865,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,10,2014,138.1155,SIMA NIGER
+432866,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,1,2015,127.8872,SIMA NIGER
+432867,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,2,2015,122.3504,SIMA NIGER
+432868,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,3,2015,120.3619,SIMA NIGER
+432869,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,4,2015,136.0,SIMA NIGER
+432870,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,5,2015,140.0,SIMA NIGER
+432871,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,6,2015,154.0,SIMA NIGER
+432872,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,7,2015,144.0,SIMA NIGER
+432873,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,12,2015,152.0,SIMA NIGER
+432874,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,1,2016,166.0,SIMA NIGER
+432875,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,2,2016,134.0,SIMA NIGER
+432876,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,3,2016,134.0,SIMA NIGER
+432877,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,4,2016,153.0,SIMA NIGER
+432878,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,5,2016,170.0,SIMA NIGER
+432879,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,6,2016,183.0,SIMA NIGER
+432880,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,7,2016,187.0,SIMA NIGER
+432881,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,8,2016,208.0,SIMA NIGER
+432882,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,9,2016,196.0,SIMA NIGER
+432883,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,10,2016,196.0,SIMA NIGER
+432884,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,11,2016,199.0,SIMA NIGER
+432885,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,1,2017,185.0,SIMA NIGER
+432886,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,2,2017,190.0,SIMA NIGER
+432887,182,Nigeria,2226,Katsina,1038,Jibia (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,3,2017,234.0,SIMA NIGER
+433271,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,11,2002,98.75,SIMA - Niger
+433272,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,12,2002,114.2288,SIMA - Niger
+433273,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,1,2003,114.0098,SIMA - Niger
+433274,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,2,2003,103.8561,SIMA - Niger
+433275,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,3,2003,97.8425,SIMA - Niger
+433276,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,4,2003,97.4047,SIMA - Niger
+433277,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,5,2003,92.2635,SIMA - Niger
+433278,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,6,2003,84.5334,SIMA - Niger
+433279,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,7,2003,71.4129,SIMA - Niger
+433280,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,8,2003,70.1471,SIMA - Niger
+433281,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,9,2003,88.3754,SIMA - Niger
+433282,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,10,2003,75.6684,SIMA - Niger
+433283,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,11,2003,73.5056,SIMA - Niger
+433284,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,12,2003,83.0958,SIMA - Niger
+433285,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,1,2005,151.5293,SIMA - Niger
+433286,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,2,2005,155.5556,SIMA - Niger
+433287,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,3,2005,174.8148,SIMA - Niger
+433288,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,4,2005,209.7971,SIMA - Niger
+433289,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,5,2005,207.119,SIMA - Niger
+433290,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,6,2005,241.0787,SIMA - Niger
+433291,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,7,2005,246.163,SIMA - Niger
+433292,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,8,2005,276.6509,SIMA - Niger
+433293,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,9,2005,148.7171,SIMA - Niger
+433294,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,10,2005,127.2624,SIMA - Niger
+433295,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,11,2005,133.9859,SIMA - Niger
+433296,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,12,2005,127.853,SIMA - Niger
+433297,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,3,2006,133.5474,SIMA - Niger
+433298,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,4,2006,132.2845,SIMA - Niger
+433299,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,5,2006,133.3014,SIMA - Niger
+433300,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,6,2006,136.2167,SIMA - Niger
+433301,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,1,2007,96.8569,SIMA - Niger
+433302,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,2,2007,96.9914,SIMA - Niger
+433303,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,3,2007,99.7704,SIMA - Niger
+433304,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,4,2007,101.9231,SIMA - Niger
+433305,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,1,2008,181.9588,SIMA - Niger
+433306,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,2,2008,186.1764,SIMA - Niger
+433307,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,3,2008,181.6449,SIMA - Niger
+433308,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,4,2008,178.7871,SIMA - Niger
+433309,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,5,2008,201.165,SIMA - Niger
+433310,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,6,2008,234.1019,SIMA - Niger
+433311,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,7,2008,256.5881,SIMA - Niger
+433312,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,8,2008,238.9499,SIMA - Niger
+433313,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,9,2008,195.9799,SIMA - Niger
+433314,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,10,2008,171.6981,SIMA - Niger
+433315,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,11,2008,187.0,SIMA - Niger
+433316,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,12,2008,175.0,SIMA - Niger
+433317,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,1,2009,187.3314,SIMA - Niger
+433318,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,2,2009,182.9167,SIMA - Niger
+433319,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,7,2009,196.0,SIMA - Niger
+433320,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,8,2009,189.4561,SIMA - Niger
+433321,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,9,2009,185.5039,SIMA - Niger
+433322,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,10,2009,135.3607,SIMA - Niger
+433323,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,11,2009,145.9932,SIMA - Niger
+433324,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,12,2009,161.4137,SIMA - Niger
+433325,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,1,2010,185.4584,SIMA - Niger
+433326,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,2,2010,165.7232,SIMA - Niger
+433327,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,3,2010,167.3361,SIMA - Niger
+433328,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,4,2010,174.8945,SIMA - Niger
+433329,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,5,2010,175.3334,SIMA - Niger
+433330,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,6,2010,191.6171,SIMA - Niger
+433331,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,7,2010,174.5985,SIMA - Niger
+433332,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,8,2010,163.0283,SIMA - Niger
+433333,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,9,2010,138.7634,SIMA - Niger
+433334,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,10,2010,136.6483,SIMA - Niger
+433335,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,11,2010,135.3315,SIMA - Niger
+433336,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,12,2010,138.1942,SIMA - Niger
+433337,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,1,2011,155.7739,SIMA - Niger
+433338,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,2,2011,151.0741,SIMA - Niger
+433339,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,3,2011,152.1565,SIMA - Niger
+433340,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,4,2011,178.3506,SIMA - Niger
+433341,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,5,2011,180.8126,SIMA - Niger
+433342,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,6,2011,182.0896,SIMA - Niger
+433343,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,7,2011,182.6614,SIMA - Niger
+433344,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,8,2011,190.407,SIMA - Niger
+433345,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,9,2011,176.4522,SIMA - Niger
+433346,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,10,2011,148.9899,SIMA - Niger
+433347,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,11,2011,163.7239,SIMA - Niger
+433348,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,12,2011,171.0873,SIMA - Niger
+433349,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,1,2012,166.4793,SIMA - Niger
+433350,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,2,2012,173.1401,SIMA - Niger
+433351,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,3,2012,177.0186,SIMA - Niger
+433352,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,4,2012,186.9792,SIMA - Niger
+433353,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,5,2012,200.6342,SIMA - Niger
+433354,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,7,2012,211.9572,SIMA - Niger
+433355,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,8,2012,213.5821,SIMA - Niger
+433356,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,9,2012,217.1053,SIMA - Niger
+433357,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,10,2012,168.5506,SIMA - Niger
+433358,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,11,2012,193.8332,SIMA - Niger
+433359,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,12,2012,200.0678,SIMA - Niger
+433360,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,1,2013,194.1739,SIMA - Niger
+433361,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,2,2013,199.3872,SIMA - Niger
+433362,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,3,2013,206.25,SIMA NIGER
+433363,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,4,2013,215.333,SIMA NIGER
+433364,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,5,2013,233.8116,SIMA NIGER
+433365,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,6,2013,239.8343,SIMA NIGER
+433366,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,7,2013,242.7493,SIMA NIGER
+433367,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,8,2013,239.1975,SIMA NIGER
+433368,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,9,2013,212.9052,SIMA NIGER
+433369,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,10,2013,165.8088,SIMA NIGER
+433370,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,11,2013,183.8235,SIMA NIGER
+433371,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,12,2013,171.2676,SIMA NIGER
+433372,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,1,2014,172.4516,SIMA NIGER
+433373,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,2,2014,178.7488,SIMA NIGER
+433374,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,3,2014,180.232,SIMA NIGER
+433375,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,4,2014,181.1648,SIMA NIGER
+433376,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,5,2014,174.0017,SIMA NIGER
+433377,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,6,2014,166.4234,SIMA NIGER
+433378,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,7,2014,163.8335,SIMA NIGER
+433379,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,8,2014,167.4285,SIMA NIGER
+433380,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,9,2014,144.6674,SIMA NIGER
+433381,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,10,2014,139.7704,SIMA NIGER
+433382,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,1,2015,121.0618,SIMA NIGER
+433383,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,2,2015,124.8171,SIMA NIGER
+433384,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,3,2015,118.0393,SIMA NIGER
+433385,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,4,2015,134.0,SIMA NIGER
+433386,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,5,2015,135.0,SIMA NIGER
+433387,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,6,2015,143.0,SIMA NIGER
+433388,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,7,2015,140.0,SIMA NIGER
+433389,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,8,2015,161.0,SIMA NIGER
+433390,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,9,2015,190.0,SIMA NIGER
+433391,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,12,2015,132.0,SIMA NIGER
+433392,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,1,2016,139.0,SIMA NIGER
+433393,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,2,2016,143.0,SIMA NIGER
+433394,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,3,2016,143.0,SIMA NIGER
+433395,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,4,2016,136.0,SIMA NIGER
+433396,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,5,2016,137.0,SIMA NIGER
+433397,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,6,2016,149.0,SIMA NIGER
+433398,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,7,2016,165.0,SIMA NIGER
+433399,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,8,2016,235.0,SIMA NIGER
+433400,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,9,2016,226.0,SIMA NIGER
+433401,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,10,2016,226.0,SIMA NIGER
+433402,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,11,2016,167.0,SIMA NIGER
+433403,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,1,2017,172.0,SIMA NIGER
+433404,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,2,2017,184.0,SIMA NIGER
+433405,182,Nigeria,2226,Katsina,1039,Mai Adoua (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,3,2017,212.0,SIMA NIGER
+433836,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,2,2003,130.5,SIMA - Niger
+433837,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,5,2003,111.2,SIMA - Niger
+433838,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,8,2003,96.4792,SIMA - Niger
+433839,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,2,2005,188.75,SIMA - Niger
+433840,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,5,2005,203.3333,SIMA - Niger
+433841,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,8,2005,251.5,SIMA - Niger
+433842,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,11,2005,132.5,SIMA - Niger
+433843,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,5,2006,144.0,SIMA - Niger
+433844,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,2,2007,139.25,SIMA - Niger
+433845,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,2,2008,166.0,SIMA - Niger
+433846,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,3,2008,197.0,SIMA - Niger
+433847,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,4,2008,196.0,SIMA - Niger
+433848,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,5,2008,217.0,SIMA - Niger
+433849,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,6,2008,215.1667,SIMA - Niger
+433850,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,7,2008,238.5,SIMA - Niger
+433851,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,8,2008,216.8064,SIMA - Niger
+433852,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,9,2008,173.6533,SIMA - Niger
+433853,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,10,2008,153.92,SIMA - Niger
+433854,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,11,2008,193.0,SIMA - Niger
+433855,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,12,2008,198.0,SIMA - Niger
+433856,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,1,2009,182.176,SIMA - Niger
+433857,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,2,2009,190.0,SIMA - Niger
+433858,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,7,2009,200.0,SIMA - Niger
+433859,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,8,2009,188.2773,SIMA - Niger
+433860,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,9,2009,161.6,SIMA - Niger
+433861,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,10,2009,136.884,SIMA - Niger
+433862,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,11,2009,149.04,SIMA - Niger
+433863,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,12,2009,161.196,SIMA - Niger
+433864,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,1,2010,157.568,SIMA - Niger
+433865,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,2,2010,155.12,SIMA - Niger
+433866,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,3,2010,157.9947,SIMA - Niger
+433867,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,4,2010,174.1013,SIMA - Niger
+433868,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,5,2010,186.48,SIMA - Niger
+433869,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,6,2010,193.5413,SIMA - Niger
+433870,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,7,2010,194.208,SIMA - Niger
+433871,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,8,2010,196.56,SIMA - Niger
+433872,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,9,2010,146.52,SIMA - Niger
+433873,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,10,2010,146.52,SIMA - Niger
+433874,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,11,2010,123.8,SIMA - Niger
+433875,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,12,2010,162.9867,SIMA - Niger
+433876,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,1,2011,146.1493,SIMA - Niger
+433877,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,2,2011,143.2448,SIMA - Niger
+433878,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,3,2011,138.74,SIMA - Niger
+433879,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,4,2011,155.62,SIMA - Niger
+433880,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,5,2011,159.9467,SIMA - Niger
+433881,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,6,2011,147.48,SIMA - Niger
+433882,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,7,2011,145.5424,SIMA - Niger
+433883,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,8,2011,132.88,SIMA - Niger
+433884,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,9,2011,139.36,SIMA - Niger
+433885,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,10,2011,151.72,SIMA - Niger
+433886,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,11,2011,164.04,SIMA - Niger
+433887,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,12,2011,178.14,SIMA - Niger
+433888,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,1,2012,167.088,SIMA - Niger
+433889,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,2,2012,182.34,SIMA - Niger
+433890,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,3,2012,195.3067,SIMA - Niger
+433891,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,4,2012,215.3333,SIMA - Niger
+433892,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,5,2012,212.6667,SIMA - Niger
+433893,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,7,2012,232.864,SIMA - Niger
+433894,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,8,2012,241.4933,SIMA - Niger
+433895,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,9,2012,220.0,SIMA - Niger
+433896,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,10,2012,168.9623,SIMA - Niger
+433897,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,11,2012,179.1,SIMA - Niger
+433898,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,12,2012,165.6,SIMA - Niger
+433899,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,1,2013,166.352,SIMA - Niger
+433900,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,2,2013,189.5253,SIMA - Niger
+433901,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,3,2013,168.716,SIMA NIGER
+433902,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,4,2013,179.0,SIMA NIGER
+433903,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,5,2013,183.4667,SIMA NIGER
+433904,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,6,2013,200.92,SIMA NIGER
+433905,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,7,2013,210.4,SIMA NIGER
+433906,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,8,2013,202.5056,SIMA NIGER
+433907,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,9,2013,176.936,SIMA NIGER
+433908,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,10,2013,167.2,SIMA NIGER
+433909,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,11,2013,176.496,SIMA NIGER
+433910,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,12,2013,174.26,SIMA NIGER
+433911,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,1,2014,172.752,SIMA NIGER
+433912,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,2,2014,175.6,SIMA NIGER
+433913,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,3,2014,168.8,SIMA NIGER
+433914,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,4,2014,179.0,SIMA NIGER
+433915,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,5,2014,173.8667,SIMA NIGER
+433916,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,6,2014,175.9893,SIMA NIGER
+433917,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,7,2014,181.44,SIMA NIGER
+433918,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,8,2014,182.0,SIMA NIGER
+433919,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,9,2014,183.6,SIMA NIGER
+433920,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,10,2014,196.8,SIMA NIGER
+433921,182,Nigeria,2216,Borno,1040,Damassack (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,6,2015,187.0,SIMA NIGER
+434182,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,1,2009,144.0476,SIMA - Niger
+434183,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,2,2009,190.0,SIMA - Niger
+434184,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,7,2009,200.0,SIMA - Niger
+434185,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,8,2009,181.4394,SIMA - Niger
+434186,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,9,2009,151.6488,SIMA - Niger
+434187,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,10,2009,129.7683,SIMA - Niger
+434188,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,11,2009,159.18,SIMA - Niger
+434189,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,12,2009,170.2801,SIMA - Niger
+434190,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,1,2010,180.4011,SIMA - Niger
+434191,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,2,2010,173.5337,SIMA - Niger
+434192,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,3,2010,160.1563,SIMA - Niger
+434193,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,4,2010,167.1875,SIMA - Niger
+434194,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,5,2010,173.2937,SIMA - Niger
+434195,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,6,2010,186.8247,SIMA - Niger
+434196,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,7,2010,186.6379,SIMA - Niger
+434197,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,8,2010,188.7356,SIMA - Niger
+434198,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,9,2010,184.4086,SIMA - Niger
+434199,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,10,2010,184.6774,SIMA - Niger
+434200,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,11,2010,186.7704,SIMA - Niger
+434201,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,12,2010,183.871,SIMA - Niger
+434202,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,1,2011,187.3333,SIMA - Niger
+434203,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,2,2011,183.871,SIMA - Niger
+434204,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,3,2011,185.3201,SIMA - Niger
+434205,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,4,2011,192.9359,SIMA - Niger
+434206,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,5,2011,187.8788,SIMA - Niger
+434207,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,6,2011,171.1443,SIMA - Niger
+434208,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,7,2011,174.7475,SIMA - Niger
+434209,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,8,2011,188.2103,SIMA - Niger
+434210,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,9,2011,189.2541,SIMA - Niger
+434211,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,10,2011,174.8718,SIMA - Niger
+434212,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,11,2011,180.7534,SIMA - Niger
+434213,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,12,2011,193.9516,SIMA - Niger
+434214,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,1,2012,195.2183,SIMA - Niger
+434215,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,2,2012,193.5484,SIMA - Niger
+434216,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,3,2012,189.7849,SIMA - Niger
+434217,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,4,2012,193.5484,SIMA - Niger
+434218,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,5,2012,216.129,SIMA - Niger
+434219,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,7,2012,234.1724,SIMA - Niger
+434220,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,8,2012,223.477,SIMA - Niger
+434221,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,9,2012,220.0,SIMA - Niger
+434222,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,10,2012,238.8469,SIMA - Niger
+434223,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,11,2012,224.5161,SIMA - Niger
+434224,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,12,2012,223.9952,SIMA - Niger
+434225,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,1,2013,225.3433,SIMA - Niger
+434226,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,2,2013,223.9427,SIMA - Niger
+434227,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,3,2013,224.1935,SIMA NIGER
+434228,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,4,2013,224.1935,SIMA NIGER
+434229,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,5,2013,227.0227,SIMA NIGER
+434230,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,6,2013,225.0,SIMA NIGER
+434231,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,7,2013,235.7923,SIMA NIGER
+434232,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,8,2013,231.1828,SIMA NIGER
+434233,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,9,2013,231.1828,SIMA NIGER
+434234,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,10,2013,224.1935,SIMA NIGER
+434235,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,11,2013,222.5806,SIMA NIGER
+434236,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,12,2013,221.371,SIMA NIGER
+434237,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,1,2014,219.9345,SIMA NIGER
+434238,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,2,2014,212.9567,SIMA NIGER
+434239,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,3,2014,222.2494,SIMA NIGER
+434240,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,4,2014,208.5708,SIMA NIGER
+434241,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,5,2014,207.8431,SIMA NIGER
+434242,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,6,2014,209.0374,SIMA NIGER
+434243,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,7,2014,206.6305,SIMA NIGER
+434244,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,8,2014,197.9798,SIMA NIGER
+434245,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,9,2014,189.7436,SIMA NIGER
+434246,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,10,2014,183.5897,SIMA NIGER
+434247,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,1,2015,177.6572,SIMA NIGER
+434248,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,2,2015,171.6402,SIMA NIGER
+434249,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,3,2015,167.1429,SIMA NIGER
+434250,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,4,2015,171.0,SIMA NIGER
+434251,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,5,2015,165.0,SIMA NIGER
+434252,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,6,2015,167.0,SIMA NIGER
+434253,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,7,2015,162.0,SIMA NIGER
+434254,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,8,2015,164.0,SIMA NIGER
+434255,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,9,2015,167.0,SIMA NIGER
+434256,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,10,2015,164.0,SIMA NIGER
+434257,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,5,2016,107.0,SIMA NIGER
+434258,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,6,2016,105.0,SIMA NIGER
+434259,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,7,2016,111.0,SIMA NIGER
+434260,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,8,2016,130.0,SIMA NIGER
+434261,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,9,2016,159.0,SIMA NIGER
+434262,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,10,2016,159.0,SIMA NIGER
+434263,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,11,2016,164.0,SIMA NIGER
+434264,182,Nigeria,2223,Jigawa,1041,Mai Gatari (CBM),51,Maize,95,NGN,14,Wholesale,5,KG,1,2017,172.0,SIMA NIGER
